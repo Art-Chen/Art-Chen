@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![](https://github-readme-stats.vercel.app/api?username=Art-Chen)](https://github.com/Art-Chen)
 
+爱发电：https://afdian.com/a/art_chen
 
 <!--
 **Art-Chen/Art-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
